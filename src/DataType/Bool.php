@@ -8,7 +8,7 @@
  */
 namespace Rawr\DataType;
 
-use Rawr\DataType;
+use \Rawr\DataType;
 
 /**
  * A `Bool` type can hold either `true` or `false`, two primitive values. When
@@ -19,8 +19,9 @@ use Rawr\DataType;
 class Bool extends DataType
 {
     /**
-     * Wraps the value in a `Bool` object.
-     * @param bool $value
+     * Wraps the value into a `Bool` object.
+     * @author Marcelo Camargo
+     * @param  bool $value
      */
     public function __construct($value) 
     {
