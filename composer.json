@@ -1,0 +1,14 @@
+{
+    "name": "rawr",
+    "description": "A world that means 'I love you' in dinosaur",
+    "type": "library",
+    "keywords": [
+        "rawr",
+        "library"
+    ],
+    "homepage": "https://haskellcamargo.github.io",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.23"
+    }
+}
