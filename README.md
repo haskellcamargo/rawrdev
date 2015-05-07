@@ -65,9 +65,8 @@ rawr/
 ### Type.Num
 `abs`, `add`, `arcCos`, `arcSin`, `arcTan2`, `arcTan`, `ceil`, `cos`, `degToRad`, `div`, `exp`, `expm1`, `floor`, `hArcCos`, , `hArcSin`, `hArcTan`, `hCos`, `hSin`, `hTan`, `hypot`, `isFinite`, `isInfinite`, `isNaN`, `log10`, `log1p`, `log`, `mod`, `mul`, `negate`, `pow`, `radToDeg`, `randUntil`, `round`, `sin`, `sqrt`, `sub`, `tan`.
 
-### Type.Num.Float
-
 ### Type.Num.Int
+`mtSeedRand`, `seedRand`, `to`, `toBin`, `toHex`, `toOct`.
 
 ### Type.Object
 
