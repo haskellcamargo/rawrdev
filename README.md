@@ -26,6 +26,7 @@ rawr/
 |       ├── Num.Int.php
 |       ├── Num.php
 |       ├── Object.php
+|       ├── Pointer.php
 |       ├── String.php
 |       ├── Tuple.php
 |       └── Type.php
@@ -37,7 +38,7 @@ rawr/
 ### Which are the built-in types and their methods?
 
 #### Type
-`caseOf`, `id`, `inspect`, `value`.
+`caseOf`, `id`, `inspect`, `toBool`, `toCollection`, `toEither`, `toError`, `toFile`, `toFun`, `toIO`, `toMatch`, `toMaybe`, `toNum`, `toInt`, `toString`, `toTuple`, `value`.
 
 #### Type.Bool
 `_and`, `_or`, `differentOf`, `equalsTo`, `greaterOrEq`, `greaterThan`, `ifTrue`, `ifFalse`, `lesserOrEq`, `lesserThan`, `not`, `otherwise`, `thenElse`.
@@ -56,6 +57,8 @@ rawr/
 `closScopeClass`, `closThis`, `docComment`, `endLine`, `export`, `ext`, `extName`, `fileName`, `clos`, `inNs`, `invoke`, `isClos`, `isDepr`, `isDisabled`, `isGen`, `isInternal`, `isUserDef`, `isVariadic`, `name`, `ns`, `numParam`, `numReqParam`, `param`, `o`, `retRef`, `shortName`, `startLine`, `staticVar`.
 
 ### Type.IO
+#### Static
+`getLine`, `getChar`, `write`, `writeLn`.
 
 ### Type.Match
 `with`.
@@ -68,6 +71,9 @@ rawr/
 
 ### Type.Num.Int
 `mtSeedRand`, `seedRand`, `to`, `toBin`, `toHex`, `toOct`.
+
+### Type.Pointer
+`let`, `free`.
 
 ### Type.String
 `addCSlashes`, `addSlashes`, `asciiOnly`, `b`, `byteSize`, `bytes`, `capitalize`, `char`, `charAt`, `chars`, `chomp`, `chop`, `chr`, `clear`, `codePoints`, `cmpCase`, `concat`, `contains`, `crypt`, `delete`, `dump`, `toLower`, `eachByte`, `eachChar`, `eachCodePoint`, `eachLine`, `encode`, `endsWith`, `getByte`, `gSub`, `hex`, `index`, `insert`, `isEmpty`, `join`, `lJust`, `lStrip`, `length`, `lines`, `match`, `next`, `oct`, `ord`, `ordinalInteger`, `putStr`, `putStrLn`, `prepend`, `rIndex`, `rJust`, `rPartition`, `rStrip`, `repeat`, `replace`, `reverse`, `scan`, `scrub`, `setByte`, `shuffle`, `slice`, `split`, `squeeze`, `startsWith`, `strip`, `succ`, `sum`, `swapCase`, `unpack`, `toUpper`, `words`.
