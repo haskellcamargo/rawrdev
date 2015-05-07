@@ -50,6 +50,7 @@ rawr/
 `either`, `isLeft`, `isRight`.
 
 ### Type.Error
+`raise`, `save`.
 
 ### Type.File
 `accessTime`, `basename`, `chgrp`, `chmod`, `chown`, `clearStatCache`, `close`, `closePointer`, `cmpName`, `copy`, `delete`, `directory`, `diskFreeSpace`, `diskTotalSpace`, `eof`, `escapeGets`, `exists`, `flush`, `getCSV`, `getChar`, `getContents`, `gets`, `glob`, `group`, `inode`, `isDirectory`, `isExecutable`, `isFile`, `isLink`, `isReadable`, `isUploadedFile`, `isWritable`, `linkChangeGroup`, `linkChangeOwner`, `lock`, `makeDir`, `modTime`, `moveUploadedFile`, `open`, `openPointer`, `owner`, `parseINIFile`, `parseINIString`, `passThrough`, `pathInfo`, `perms`, `putCSV`, `putContents`, `puts`, `read`, `read`, `readLink`, `realpathCache`, `realpathCacheSize`, `removeDirectory`, `rename`, `rewind`, `scanf`, `seek`, `setFileBuffer`, `size`, `stat`, `stat`, `symLink`, `tell`, `tempFile`, `tempName`, `touch`, `truncate`, `type`, `umask`, `write`.
