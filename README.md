@@ -33,6 +33,12 @@ rawr/
 └── composer.json
 ```
 
+### Which are the built-in types and their methods?
+
+#### Type.Bool
+`_and`, `_or`, `differentOf`, `equalsTo`, `greaterOrEq`, `greaterThan`, `ìfTrue`, `ifFalse`, `lesserOrEq`, `lesserThan`, `not`, `otherwise`, `thenElse`.
+
+
 
 ## Do you need a README?
 
