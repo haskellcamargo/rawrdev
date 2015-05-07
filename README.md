@@ -52,6 +52,7 @@ rawr/
 ### Type.Error
 
 ### Type.File
+`accessTime`, `basename`, `chgrp`, `chmod`, `chown`, `clearStatCache`, `close`, `closePointer`, `cmpName`, `copy`, `delete`, `directory`, `diskFreeSpace`, `diskTotalSpace`, `eof`, `escapeGets`, `exists`, `flush`, `getCSV`, `getChar`, `getContents`, `gets`, `glob`, `group`, `inode`, `isDirectory`, `isExecutable`, `isFile`, `isLink`, `isReadable`, `isUploadedFile`, `isWritable`, `linkChangeGroup`, `linkChangeOwner`, `lock`, `makeDir`, `modTime`, `moveUploadedFile`, `open`, `openPointer`, `owner`, `parseINIFile`, `parseINIString`, `passThrough`, `pathInfo`, `perms`, `putCSV`, `putContents`, `puts`, `read`, `read`, `readLink`, `realpathCache`, `realpathCacheSize`, `removeDirectory`, `rename`, `rewind`, `scanf`, `seek`, `setFileBuffer`, `size`, `stat`, `stat`, `symLink`, `tell`, `tempFile`, `tempName`, `touch`, `truncate`, `type`, `umask`, `write`.
 
 ### Type.Fun
 `closScopeClass`, `closThis`, `docComment`, `endLine`, `export`, `ext`, `extName`, `fileName`, `clos`, `inNs`, `invoke`, `isClos`, `isDepr`, `isDisabled`, `isGen`, `isInternal`, `isUserDef`, `isVariadic`, `name`, `ns`, `numParam`, `numReqParam`, `param`, `o`, `retRef`, `shortName`, `startLine`, `staticVar`.
