@@ -37,6 +37,7 @@ rawr/
 ### Which are the built-in types and their methods?
 
 #### Type
+`caseOf`, `id`, `inspect`, `value`.
 
 #### Type.Bool
 `_and`, `_or`, `differentOf`, `equalsTo`, `greaterOrEq`, `greaterThan`, `ifTrue`, `ifFalse`, `lesserOrEq`, `lesserThan`, `not`, `otherwise`, `thenElse`.
@@ -67,8 +68,6 @@ rawr/
 
 ### Type.Num.Int
 `mtSeedRand`, `seedRand`, `to`, `toBin`, `toHex`, `toOct`.
-
-### Type.Object
 
 ### Type.String
 `addCSlashes`, `addSlashes`, `asciiOnly`, `b`, `byteSize`, `bytes`, `capitalize`, `char`, `charAt`, `chars`, `chomp`, `chop`, `chr`, `clear`, `codePoints`, `cmpCase`, `concat`, `contains`, `crypt`, `delete`, `dump`, `toLower`, `eachByte`, `eachChar`, `eachCodePoint`, `eachLine`, `encode`, `endsWith`, `getByte`, `gSub`, `hex`, `index`, `insert`, `isEmpty`, `join`, `lJust`, `lStrip`, `length`, `lines`, `match`, `next`, `oct`, `ord`, `ordinalInteger`, `putStr`, `putStrLn`, `prepend`, `rIndex`, `rJust`, `rPartition`, `rStrip`, `repeat`, `replace`, `reverse`, `scan`, `scrub`, `setByte`, `shuffle`, `slice`, `split`, `squeeze`, `startsWith`, `strip`, `succ`, `sum`, `swapCase`, `unpack`, `toUpper`, `words`.
