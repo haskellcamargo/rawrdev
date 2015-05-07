@@ -35,11 +35,38 @@ rawr/
 
 ### Which are the built-in types and their methods?
 
+#### Type
+
 #### Type.Bool
 `_and`, `_or`, `differentOf`, `equalsTo`, `greaterOrEq`, `greaterThan`, `ìfTrue`, `ifFalse`, `lesserOrEq`, `lesserThan`, `not`, `otherwise`, `thenElse`.
 
 #### Type.Collection
-`all`, `andList`, `any`, `at`, `average`, `breakList`, `compact`, `concat`, `concatMap`, `countBy`, `difference`, `drop`, `dropWhile`, `each`, `eachIndex`, `elemIndex`, `filter`, `find`, `findIndex`, `findIndices`, `flatten`, `fold`, `foldl`, `foldl1`, `foldr`, `foldr1`, `groupBy`, `head`, `initial`, `intersection`, `last`, `map`, `mapIndex`, `maximum`, `maximumBy`, `mean`, `minimum`, `minimumBy`, `orList`, `partition`, `product`, `reject`, `reverse`, `scan`, `scan1`, `scanl`, `scanl1`, `scanr`, `scanr1`, `slice`, `sort`, `sortBy`, `sortWwith`, `span`, `splitAt`, `sum`, `take`, `takeWhile`, `tail`, `unfoldr`, `union`, `unique`, `uniqueBy`, `zip`, `zipWith`, `zipAll`, `zipAllWith`
+`all`, `andList`, `any`, `at`, `average`, `breakList`, `compact`, `concat`, `concatMap`, `countBy`, `difference`, `drop`, `dropWhile`, `each`, `eachIndex`, `elemIndex`, `filter`, `find`, `findIndex`, `findIndices`, `flatten`, `fold`, `foldl`, `foldl1`, `foldr`, `foldr1`, `groupBy`, `head`, `initial`, `intersection`, `last`, `map`, `mapIndex`, `maximum`, `maximumBy`, `mean`, `minimum`, `minimumBy`, `orList`, `partition`, `product`, `reject`, `reverse`, `scan`, `scan1`, `scanl`, `scanl1`, `scanr`, `scanr1`, `slice`, `sort`, `sortBy`, `sortWwith`, `span`, `splitAt`, `sum`, `take`, `takeWhile`, `tail`, `unfoldr`, `union`, `unique`, `uniqueBy`, `zip`, `zipWith`, `zipAll`, `zipAllWith`.
+
+#### Type.Either
+`either`, `isLeft`, `isRight`.
+
+### Type.File
+
+### Type.Fun
+
+### Type.IO
+
+### Type.Match
+
+### Type.Maybe
+
+### Type.Num
+
+### Type.Num.Float
+
+### Type.Num.Int
+
+### Type.Object
+
+### Type.String
+
+### Type.Tuple
 
 ## Do you need a README?
 
