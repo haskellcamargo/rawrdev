@@ -52,13 +52,14 @@ rawr/
 ### Type.File
 
 ### Type.Fun
-`closScopeClass`, `closThis`, `docComment`, `endLine`, `export`, `ext`, `extName`, `fileName`, `clos`, `inNs`, `invoke`, `isClos`, `isDepr`, `isDisabled`, `isGen`, `isInternal`, `isUserDef`, `isVariadic`, `name`, `ns`, `numParam`, `numReqParam`, `param`, `o`, `retRef`, `shortName`, `startLine`, `staticVar`
+`closScopeClass`, `closThis`, `docComment`, `endLine`, `export`, `ext`, `extName`, `fileName`, `clos`, `inNs`, `invoke`, `isClos`, `isDepr`, `isDisabled`, `isGen`, `isInternal`, `isUserDef`, `isVariadic`, `name`, `ns`, `numParam`, `numReqParam`, `param`, `o`, `retRef`, `shortName`, `startLine`, `staticVar`.
 
 ### Type.IO
 
 ### Type.Match
 
 ### Type.Maybe
+`fromJust`, `fromMaybe`, `isJust`, `isNothing`, `maybe`, `toList`.
 
 ### Type.Num
 
