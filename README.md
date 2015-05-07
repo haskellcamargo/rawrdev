@@ -38,7 +38,8 @@ rawr/
 #### Type.Bool
 `_and`, `_or`, `differentOf`, `equalsTo`, `greaterOrEq`, `greaterThan`, `ìfTrue`, `ifFalse`, `lesserOrEq`, `lesserThan`, `not`, `otherwise`, `thenElse`.
 
-
+#### Type.Collection
+`all`, `andList`, `any`, `at`, `average`, `breakList`, `compact`, `concat`, `concatMap`, `countBy`, `difference`, `drop`, `dropWhile`, `each`, `eachIndex`, `elemIndex`, `filter`, `find`, `findIndex`, `findIndices`, `flatten`, `fold`, `foldl`, `foldl1`, `foldr`, `foldr1`, `groupBy`, `head`, `initial`, `intersection`, `last`, `map`, `mapIndex`, `maximum`, `maximumBy`, `mean`, `minimum`, `minimumBy`, `orList`, `partition`, `product`, `reject`, `reverse`, `scan`, `scan1`, `scanl`, `scanl1`, `scanr`, `scanr1`, `slice`, `sort`, `sortBy`, `sortWwith`, `span`, `splitAt`, `sum`, `take`, `takeWhile`, `tail`, `unfoldr`, `union`, `unique`, `uniqueBy`, `zip`, `zipWith`, `zipAll`, `zipAllWith`
 
 ## Do you need a README?
 
