@@ -57,6 +57,7 @@ rawr/
 ### Type.IO
 
 ### Type.Match
+`with`.
 
 ### Type.Maybe
 `fromJust`, `fromMaybe`, `isJust`, `isNothing`, `maybe`, `toList`.
