@@ -62,7 +62,6 @@ rawr/
 `fromJust`, `fromMaybe`, `isJust`, `isNothing`, `maybe`, `toList`.
 
 ### Type.Num
-
 `abs`, `add`, `arcCos`, `arcSin`, `arcTan2`, `arcTan`, `ceil`, `cos`, `degToRad`, `div`, `exp`, `expm1`, `floor`, `hArcCos`, , `hArcSin`, `hArcTan`, `hCos`, `hSin`, `hTan`, `hypot`, `isFinite`, `isInfinite`, `isNaN`, `log10`, `log1p`, `log`, `mod`, `mul`, `negate`, `pow`, `radToDeg`, `randUntil`, `round`, `sin`, `sqrt`, `sub`, `tan`.
 
 ### Type.Num.Float
@@ -72,6 +71,7 @@ rawr/
 ### Type.Object
 
 ### Type.String
+`addCSlashes`, `addSlashes`, `asciiOnly`, `b`, `byteSize`, `bytes`, `capitalize`, `char`, `charAt`, `chars`, `chomp`, `chop`, `chr`, `clear`, `codePoints`, `cmpCase`, `concat`, `contains`, `crypt`, `delete`, `dump`, `toLower`, `eachByte`, `eachChar`, `eachCodePoint`, `eachLine`, `encode`, `endsWith`, `getByte`, `gSub`, `hex`, `index`, `insert`, `isEmpty`, `join`, `lJust`, `lStrip`, `length`, `lines`, `match`, `next`, `oct`, `ord`, `ordinalInteger`, `putStr`, `putStrLn`, `prepend`, `rIndex`, `rJust`, `rPartition`, `rStrip`, `repeat`, `replace`, `reverse`, `scan`, `scrub`, `setByte`, `shuffle`, `slice`, `split`, `squeeze`, `startsWith`, `strip`, `succ`, `sum`, `swapCase`, `unpack`, `toUpper`, `words`.
 
 ### Type.Tuple
 
